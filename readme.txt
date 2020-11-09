@@ -1,4 +1,5 @@
-bug
+b
+ug
 no ff
 dev fast
 
