@@ -1,4 +1,6 @@
+no ff
 dev fast
+
 this is dev branch
 249
 1118
