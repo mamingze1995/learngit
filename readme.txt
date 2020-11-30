@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+aaa
+>>>>>>> dev
 b
 ug
 no ff
